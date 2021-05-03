@@ -1,1 +1,2 @@
-
+Spotifygenre_Multilabelclass.py: preprocesss data and train random forest and logistic regression model 
+Spotify_genre_Multilabelclass_DNN: Train deep neural network model
